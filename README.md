@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/jhan15/neural_style_transfer/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/jhan15/neural_style_transfer/blob/master/neural_style_transfer.ipynb]
 
 # neural_style_transfer
 
