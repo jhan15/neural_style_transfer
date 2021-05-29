@@ -24,15 +24,18 @@ Only the first 10 feature maps of each conv layer are displayed.
 
 #### Content
 
-![t1](https://user-images.githubusercontent.com/62132206/120069394-18d9a700-c086-11eb-9716-ad4273b5f88c.png)
+![kth1](https://user-images.githubusercontent.com/62132206/120085684-7861a200-c0da-11eb-9e4d-ce051af57419.png)
 
 #### Style
 
-![t2](https://user-images.githubusercontent.com/62132206/120069401-28f18680-c086-11eb-9bc6-d6ae725b7709.png)
-![t3](https://user-images.githubusercontent.com/62132206/120069403-2a22b380-c086-11eb-9ad6-4d268188b203.png)
-![t4](https://user-images.githubusercontent.com/62132206/120069404-2abb4a00-c086-11eb-8849-7cbaeabc7bf4.png)
+![kth2](https://user-images.githubusercontent.com/62132206/120085688-80b9dd00-c0da-11eb-871b-ec50131c1791.png)
+![kth3](https://user-images.githubusercontent.com/62132206/120085689-81527380-c0da-11eb-9dcf-469625659e0f.png)
+![kth4](https://user-images.githubusercontent.com/62132206/120085690-81eb0a00-c0da-11eb-8ac7-dae0f85379e8.png)
+![kth5](https://user-images.githubusercontent.com/62132206/120085691-8283a080-c0da-11eb-8d9e-8d87cc8569ce.png)
+![kth6](https://user-images.githubusercontent.com/62132206/120085692-8283a080-c0da-11eb-8652-37e9814b699e.png)
 
-### Results
+### Transfer results
 
-![t5](https://user-images.githubusercontent.com/62132206/120069364-e9c33580-c085-11eb-9525-c26fe5a1d25c.png)
+![kth](https://user-images.githubusercontent.com/62132206/120085694-87485480-c0da-11eb-8f77-b5c686517310.png)
 
+![kth](https://user-images.githubusercontent.com/62132206/120085704-9929f780-c0da-11eb-9d00-3c298bbc8eb5.gif)
