@@ -14,7 +14,7 @@ Transfer a content image into the style of a style image.
 
 ## Usage
 
-Try the code in google colab if you are interested in.
+Try the code in google colab if you are interested in. However, you need to prepare some images youselves. I did it by copying the images stored in my google drive.
 
 ## Style transfer
 
