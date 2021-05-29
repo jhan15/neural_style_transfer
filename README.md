@@ -18,6 +18,16 @@ Try the code in google colab if you are interested in.
 
 ### Visualize feature maps
 
+#### content
+
+![t1](https://user-images.githubusercontent.com/62132206/120069394-18d9a700-c086-11eb-9716-ad4273b5f88c.png)
+
+#### Style
+
+![t2](https://user-images.githubusercontent.com/62132206/120069401-28f18680-c086-11eb-9bc6-d6ae725b7709.png)
+![t3](https://user-images.githubusercontent.com/62132206/120069403-2a22b380-c086-11eb-9ad6-4d268188b203.png)
+![t4](https://user-images.githubusercontent.com/62132206/120069404-2abb4a00-c086-11eb-8849-7cbaeabc7bf4.png)
+
 ### Results
 
 ![t5](https://user-images.githubusercontent.com/62132206/120069364-e9c33580-c085-11eb-9525-c26fe5a1d25c.png)
