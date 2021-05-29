@@ -20,7 +20,7 @@ Try the code in google colab if you are interested in.
 
 ### Visualize feature maps
 
-Only chose first 10 feature maps of each conv layer.
+Only display the first 10 feature maps of each conv layer.
 
 #### Content
 
