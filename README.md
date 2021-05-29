@@ -8,6 +8,8 @@ Transfer a content image into the style of a style image.
 
 - A weighted loss function of content loss, style loss, and total variation loss is used as the optimization objective.
 
+- Visualize the feature maps to choose content and style layers.
+
 - Adam optimizer is used for training.
 
 ## Usage
