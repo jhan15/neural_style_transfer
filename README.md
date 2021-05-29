@@ -18,7 +18,7 @@ Try the code in google colab if you are interested in.
 
 ### Visualize feature maps
 
-#### content
+#### Content
 
 ![t1](https://user-images.githubusercontent.com/62132206/120069394-18d9a700-c086-11eb-9716-ad4273b5f88c.png)
 
