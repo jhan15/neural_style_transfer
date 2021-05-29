@@ -14,6 +14,11 @@ Transfer a content image into the style of a style image.
 
 Try the code in google colab if you are interested in.
 
-## Results
+## Style transfer
 
+### Visualize feature maps
+
+### Results
+
+![t5](https://user-images.githubusercontent.com/62132206/120069364-e9c33580-c085-11eb-9525-c26fe5a1d25c.png)
 
