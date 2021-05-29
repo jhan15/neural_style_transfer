@@ -10,4 +10,10 @@ Transfer a content image into the style of a style image.
 
 - Adam optimizer is used for training.
 
-# Transfer result
+## Usage
+
+Try the code in google colab if you are interested in.
+
+## Results
+
+
