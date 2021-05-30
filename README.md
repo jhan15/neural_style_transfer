@@ -45,3 +45,7 @@ Only the first 10 feature maps of each conv layer are displayed.
 ### Many to one
 
 ![many_to_one](https://user-images.githubusercontent.com/62132206/120102504-a9c68600-c14b-11eb-90b4-a94c014dae01.png)
+
+### Content/Style weights
+
+![weight](https://user-images.githubusercontent.com/62132206/120114778-02644600-c181-11eb-8716-e6fea9a1fb29.png)
