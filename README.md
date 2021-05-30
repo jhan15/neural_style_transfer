@@ -22,20 +22,22 @@ Try the code in google colab if you are interested in. However, you need to prep
 
 Only the first 10 feature maps of each conv layer are displayed.
 
-#### Content
+#### Content feature maps
 
-![kth1](https://user-images.githubusercontent.com/62132206/120085684-7861a200-c0da-11eb-9e4d-ce051af57419.png)
+![car1](https://user-images.githubusercontent.com/62132206/120101413-471ebb80-c146-11eb-8730-213aa1e9a168.png)
 
-#### Style
+#### Style feature maps
 
-![kth2](https://user-images.githubusercontent.com/62132206/120085688-80b9dd00-c0da-11eb-871b-ec50131c1791.png)
-![kth3](https://user-images.githubusercontent.com/62132206/120085689-81527380-c0da-11eb-9dcf-469625659e0f.png)
-![kth4](https://user-images.githubusercontent.com/62132206/120085690-81eb0a00-c0da-11eb-8ac7-dae0f85379e8.png)
-![kth5](https://user-images.githubusercontent.com/62132206/120085691-8283a080-c0da-11eb-8d9e-8d87cc8569ce.png)
-![kth6](https://user-images.githubusercontent.com/62132206/120085692-8283a080-c0da-11eb-8652-37e9814b699e.png)
+![car2](https://user-images.githubusercontent.com/62132206/120101417-4d149c80-c146-11eb-8cf3-a3fd3bfb852c.png)
+![car3](https://user-images.githubusercontent.com/62132206/120101420-4dad3300-c146-11eb-96fd-45c17436f379.png)
+![car4](https://user-images.githubusercontent.com/62132206/120101421-4e45c980-c146-11eb-836b-91ca4dbaa937.png)
+![car5](https://user-images.githubusercontent.com/62132206/120101422-4ede6000-c146-11eb-969c-6a9edfcf1613.png)
+![car6](https://user-images.githubusercontent.com/62132206/120101423-4ede6000-c146-11eb-8bc3-6b16a64e672c.png)
 
 ### Transfer results
 
-![kth](https://user-images.githubusercontent.com/62132206/120085694-87485480-c0da-11eb-8f77-b5c686517310.png)
+![ car](https://user-images.githubusercontent.com/62132206/120101427-543baa80-c146-11eb-9e55-a0d306473799.png)
 
-![kth](https://user-images.githubusercontent.com/62132206/120085704-9929f780-c0da-11eb-9d00-3c298bbc8eb5.gif)
+## One to Many
+
+![one_to_many](https://user-images.githubusercontent.com/62132206/120101446-6a496b00-c146-11eb-8299-a2b190437476.png)
