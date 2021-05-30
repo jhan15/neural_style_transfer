@@ -41,3 +41,7 @@ Only the first 10 feature maps of each conv layer are displayed.
 ## One to Many
 
 ![one_to_many](https://user-images.githubusercontent.com/62132206/120101446-6a496b00-c146-11eb-8299-a2b190437476.png)
+
+## Many to one
+
+![many_to_one](https://user-images.githubusercontent.com/62132206/120102504-a9c68600-c14b-11eb-90b4-a94c014dae01.png)
