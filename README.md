@@ -38,7 +38,7 @@ Only the first 10 feature maps of each conv layer are displayed.
 
 ![ car](https://user-images.githubusercontent.com/62132206/120101427-543baa80-c146-11eb-9e55-a0d306473799.png)
 
-### One to Many
+### One to many
 
 ![one_to_many](https://user-images.githubusercontent.com/62132206/120101446-6a496b00-c146-11eb-8299-a2b190437476.png)
 
@@ -46,6 +46,6 @@ Only the first 10 feature maps of each conv layer are displayed.
 
 ![many_to_one](https://user-images.githubusercontent.com/62132206/120102504-a9c68600-c14b-11eb-90b4-a94c014dae01.png)
 
-### Content/Style weights
+### Weight analysis
 
 ![weight](https://user-images.githubusercontent.com/62132206/120114778-02644600-c181-11eb-8716-e6fea9a1fb29.png)
