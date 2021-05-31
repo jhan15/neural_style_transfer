@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/neural_style_transfer/blob/master/neural_style_transfer.ipynb)
+[![GitHub issues](https://img.shields.io/github/issues/jhan15/neural_style_transfer)](https://github.com/jhan15/neural_style_transfer/issues)
 
 # neural_style_transfer
 
@@ -14,7 +14,7 @@ Transfer a content image into the style of a style image.
 
 ## Usage
 
-Try the code in google colab if you are interested in. However, you need to prepare some images youselves. I did it by copying the images stored in my google drive.
+Try the code in google colab if you are interested in. However, you need to prepare some images youselves. I did it by copying the images stored in my google drive. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/neural_style_transfer/blob/master/neural_style_transfer.ipynb)
 
 ## Style transfer
 
