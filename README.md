@@ -1,4 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/jhan15/neural_style_transfer)](https://github.com/jhan15/neural_style_transfer/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/neural_style_transfer?color=ff69b4)
 
 # neural_style_transfer
 
