@@ -13,6 +13,12 @@ Transfer a content image into the style of a style image.
 
 - Adam optimizer is used for training.
 
+## Preview
+
+![g1](https://user-images.githubusercontent.com/62132206/120387259-f071d700-c329-11eb-9b78-f63f6c7f6088.gif)
+![g2](https://user-images.githubusercontent.com/62132206/120387251-ef40aa00-c329-11eb-9e47-69824228d5c8.gif)
+![g3](https://user-images.githubusercontent.com/62132206/120387238-ebad2300-c329-11eb-80b2-74bb83dee39e.gif)
+
 ## Usage
 
 Try the code in google colab if you are interested in. However, you need to prepare some images youselves. I did it by copying the images stored in my google drive. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/neural_style_transfer/blob/master/neural_style_transfer.ipynb)
