@@ -15,8 +15,8 @@ Transfer a content image into the style of a style image.
 
 ## Preview
 
-![g1](https://user-images.githubusercontent.com/62132206/120387259-f071d700-c329-11eb-9b78-f63f6c7f6088.gif)
 ![g2](https://user-images.githubusercontent.com/62132206/120387251-ef40aa00-c329-11eb-9e47-69824228d5c8.gif)
+![g1](https://user-images.githubusercontent.com/62132206/120387259-f071d700-c329-11eb-9b78-f63f6c7f6088.gif)
 ![g3](https://user-images.githubusercontent.com/62132206/120387238-ebad2300-c329-11eb-80b2-74bb83dee39e.gif)
 
 ## Usage
